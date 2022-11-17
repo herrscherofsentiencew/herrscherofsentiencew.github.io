@@ -1,3 +1,5 @@
-theme: jekyll-theme-merlot 
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: [Welcome to your demise (or not.)]
 description: [Fulfillment of my desire of loving you]

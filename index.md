@@ -22,5 +22,7 @@ Just kidding.
 ---
 
 ## Small Background about ADNU JHS
-  <img src="https://user-images.githubusercontent.com/118231391/202880312-87018d62-c8ff-4403-a559-59320e0ba767.png" width="250" height="250">  
+<p align="center">
+  <img width="250" height="250" src="https://user-images.githubusercontent.com/118231391/202880312-87018d62-c8ff-4403-a559-59320e0ba767.png">
+</p>
 

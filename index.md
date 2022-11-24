@@ -28,9 +28,23 @@ Just kidding.
 
 This game is soooooooooooooooooooooooooooooooooooo fun with friends and it's a good time-consumer game. You get to collect a lot of stuff and characters while fighting monsters. The storyline is also one of the best you'll ever see. Download it now!
 
-# Music that I really love listening to
+# Music/Artists that I really love listening to
 ## Blackpink
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX8kP0ioXjxIA?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## 25時、ナイトコードで。
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1VMXuPyhNldYomz8ojLKP7?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# Some other songs that I am literally inlove with
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3lOMJTQTd6J34faYwASc33?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4X3L6G6KDs0jBKvfTkmKmi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/64LMCa7fkdfHYLtCm0kGTR?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1OAp6qN5KmoGUQ2edICKsC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3g2jMbl3XTP0k0cYb5rN6p?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6kZaGOtlo8oLRqFogE3UQa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+**(i'll continue adding more <3)**
